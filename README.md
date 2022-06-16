@@ -1,0 +1,2 @@
+# MyTrainingfunda
+exploring git
